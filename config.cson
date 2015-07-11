@@ -1,0 +1,34 @@
+"*":
+  "exception-reporting":
+    userId: "7a903ccf-f501-25f6-0a65-5d43c64dc655"
+  "release-notes":
+    viewedVersion: "0.84.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "af5ef72410dccc6d85abe1d04279f0c453cdc8a5"
+  editor:
+    invisibles: {}
+    fontFamily: "Inconsolata"
+    scrollPastEnd: true
+    fontSize: 13
+  core:
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    themes: [
+      "one-light-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  whitespace: {}
+  "go-plus":
+    runCoverageOnSave: true
+    getMissingTools: false
+  "autocomplete-plus": {}
+  autosave:
+    enabled: true
+  "git-plus": {}
+  atomatigit: {}
+  "one-dark-ui": {}
