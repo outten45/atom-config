@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+
+case "$1" in
+  backup )
+  apm list --installed --bare > package-list.txt ;;
+  install )
+  apm install --packages-file package-list.txt ;;
+  * )
+  echo "apm_packages [backup|install]"
+esac
