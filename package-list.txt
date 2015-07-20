@@ -3,7 +3,7 @@ atomatigit@1.5.3
 clipboard-history@0.6.6
 file-icons@1.5.8
 git-plus@5.2.2
-go-plus@3.4.1
+go-plus@3.4.2
 go-rename@0.3.0
 gocode@0.2.1
 language-docker@1.1.3

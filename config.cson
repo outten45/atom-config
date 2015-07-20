@@ -12,6 +12,7 @@
     fontFamily: "Inconsolata"
     scrollPastEnd: true
     fontSize: 13
+    lineHeight: 1.2
   core:
     ignoredNames: [
       ".git"
