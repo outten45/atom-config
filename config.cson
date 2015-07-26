@@ -9,10 +9,9 @@
     userId: "af5ef72410dccc6d85abe1d04279f0c453cdc8a5"
   editor:
     invisibles: {}
-    fontFamily: "Inconsolata"
     scrollPastEnd: true
-    fontSize: 13
-    lineHeight: 1.2
+    fontSize: 12
+    fontFamily: "Monaco"
   core:
     ignoredNames: [
       ".git"
