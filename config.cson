@@ -9,9 +9,9 @@
     userId: "af5ef72410dccc6d85abe1d04279f0c453cdc8a5"
   editor:
     invisibles: {}
+    fontFamily: "Inconsolata"
     scrollPastEnd: true
-    fontSize: 12
-    fontFamily: "Monaco"
+    fontSize: 13
   core:
     ignoredNames: [
       ".git"
@@ -32,4 +32,3 @@
   "git-plus": {}
   atomatigit: {}
   "one-dark-ui": {}
-  Zen: {}
