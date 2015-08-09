@@ -19,7 +19,7 @@
       ".DS_Store"
     ]
     themes: [
-      "one-light-ui"
+      "one-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
   whitespace: {}
