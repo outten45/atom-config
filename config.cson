@@ -32,3 +32,5 @@
   "git-plus": {}
   atomatigit: {}
   "one-dark-ui": {}
+  minimap:
+    autoToggle: false
