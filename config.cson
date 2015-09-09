@@ -18,10 +18,6 @@
       ".svn"
       ".DS_Store"
     ]
-    themes: [
-      "one-dark-ui"
-      "base16-tomorrow-dark-theme"
-    ]
   whitespace: {}
   "go-plus":
     runCoverageOnSave: true
