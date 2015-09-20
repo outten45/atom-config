@@ -9,7 +9,7 @@
     userId: "af5ef72410dccc6d85abe1d04279f0c453cdc8a5"
   editor:
     invisibles: {}
-    fontFamily: "Inconsolata"
+    fontFamily: "Monaco"
     scrollPastEnd: true
     fontSize: 13
   core:
@@ -17,6 +17,10 @@
       ".git"
       ".svn"
       ".DS_Store"
+    ]
+    themes: [
+      "one-dark-ui"
+      "one-light-syntax"
     ]
   whitespace: {}
   "go-plus":
