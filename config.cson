@@ -20,7 +20,7 @@
     ]
     themes: [
       "one-dark-ui"
-      "one-light-syntax"
+      "base16-tomorrow-dark-theme"
     ]
   whitespace: {}
   "go-plus":
