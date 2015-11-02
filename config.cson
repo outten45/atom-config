@@ -11,7 +11,7 @@
     invisibles: {}
     fontFamily: "Monaco"
     scrollPastEnd: true
-    fontSize: 13
+    fontSize: 12
   core:
     ignoredNames: [
       ".git"
@@ -34,3 +34,4 @@
   "one-dark-ui": {}
   minimap:
     autoToggle: false
+  "crystal-tools": {}
