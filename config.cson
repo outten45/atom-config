@@ -11,7 +11,7 @@
     invisibles: {}
     fontFamily: "Monaco"
     scrollPastEnd: true
-    fontSize: 13
+    fontSize: 12
   core:
     ignoredNames: [
       ".git"
@@ -20,7 +20,7 @@
     ]
     themes: [
       "one-dark-ui"
-      "base16-tomorrow-dark-theme"
+      "atom-material-syntax"
     ]
   whitespace: {}
   "go-plus":
