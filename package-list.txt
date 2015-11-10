@@ -6,6 +6,7 @@ atomatigit@1.5.5
 clipboard-history@0.6.6
 color-picker@2.0.13
 file-icons@1.6.11
+git-blame@0.4.5
 git-plus@5.5.6
 go-plus@3.5.1
 go-rename@0.3.0
@@ -26,4 +27,3 @@ monokai-seti@0.7.0
 pigments@0.18.1
 script@3.0.1
 sort-lines@0.12.0
-
