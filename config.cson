@@ -11,7 +11,8 @@
     invisibles: {}
     fontFamily: "Monaco"
     scrollPastEnd: true
-    fontSize: 12
+    softWrapAtPreferredLineLength: true
+    fontSize: 13
   core:
     ignoredNames: [
       ".git"
@@ -19,12 +20,11 @@
       ".DS_Store"
     ]
     themes: [
-      "one-dark-ui"
-      "atom-material-syntax"
+      "atom-light-ui"
+      "slime"
     ]
   whitespace: {}
   "go-plus":
-    runCoverageOnSave: true
     getMissingTools: false
   "autocomplete-plus": {}
   autosave:
@@ -35,3 +35,9 @@
   minimap:
     autoToggle: false
   "crystal-tools": {}
+  "export-html": {}
+  linter: {}
+  "autocomplete-elixir":
+    erlangHome: "/usr/local/opt/erlang/bin"
+    elixirPath: "/usr/local/opt/elixir/bin"
+  "go-rename": {}

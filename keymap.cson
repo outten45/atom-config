@@ -17,11 +17,14 @@
 #   'ctrl-p': 'core:move-down'
 #
 
-'.atom-text-editor':
+'.editor':
   'alt-u': 'git-diff:move-to-previous-diff'
 
-'.atom-text-editor':
+'.editor':
   'alt-i': 'git-diff:move-to-next-diff'
 
-'.atom-text-editor':
+'.editor':
   'alt-0': 'editor:auto-indent'
+
+'.editor':
+  'ctrl-shift-S': 'git-plus:stage-files'
